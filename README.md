@@ -10,6 +10,6 @@ A deep learning-based system for detecting abnormal driving behaviors using comp
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/abnormal-driving-detection.git
+git clone https://github.com/KothaJagadeeshreddy/Abnormal-Driving-Asessment.git
 cd abnormal-driving-detection
 pip install -r requirements.txt
