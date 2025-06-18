@@ -8,8 +8,4 @@ A deep learning-based system for detecting abnormal driving behaviors using comp
 - Audio alerts for abnormal behaviors
 - Detailed reporting system
 
-## Installation
-```bash
-git clone https://github.com/yourusername/abnormal-driving-detection.git
-cd abnormal-driving-detection
-pip install -r requirements.txt
+
