@@ -9,4 +9,3 @@ scikit-learn
 matplotlib
 joblib
 ultralytics
-cv2
